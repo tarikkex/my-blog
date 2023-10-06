@@ -2,4 +2,8 @@ First commit!
 
 commit # 2
 
+<<<<<<< HEAD
 commit #3
+=======
+commit #4
+>>>>>>> feature
